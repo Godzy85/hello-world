@@ -3,6 +3,4 @@
 [TEST]
 This is a test following the tutorial
 
-Version 2.1
-
-Version 2.1
+Im just gonna paste over here some random code that i'm trying to learn! Also trying to understance github at the same time!
